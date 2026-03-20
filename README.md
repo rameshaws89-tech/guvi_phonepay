@@ -42,7 +42,7 @@ The dashboard is structured into five distinct analytical modules:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com
+    git clone https://github.com/rameshaws89-tech/guvi_phonepay.git
     ```
 2.  **Install Python Packages:**
     ```bash
